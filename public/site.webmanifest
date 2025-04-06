@@ -1,0 +1,24 @@
+{
+  "name": "Wine·Verse",
+  "short_name": "Wine·Verse",
+  "description": "Винный бар в Москве",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0506",
+  "theme_color": "#0a0506",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+} 
