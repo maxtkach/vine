@@ -6,7 +6,8 @@ const nextConfig = {
     loader: 'custom',
     loaderFile: './image-loader.js',
   },
-  assetPrefix: '/',
+  basePath: '/vine',
+  assetPrefix: '/vine/',
 };
 
 module.exports = nextConfig; 
